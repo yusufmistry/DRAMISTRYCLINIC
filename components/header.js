@@ -132,7 +132,7 @@ header.innerHTML =
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../BookAppt.html">Book an Appointment</a>
+            <a class="nav-link" href="./BookAppt.html">Book an Appointment</a>
           </li>
         </ul>
       </div>
