@@ -142,27 +142,27 @@ header.innerHTML =
           style="color: black"
           onMouseOver="this.style.color='purple'"
           onMouseOut="this.style.color='black'"
-          href="https://www.instagram.com/w3schools.com_official/"
+          href="https://www.instagram.com/dr_a_mistrys_clinic/"
           target="_blank"
-          title="W3Schools on Instagram"
+          title="Dr A Mistrys Clinic on Instagram"
           ><span class="fa fa-instagram fa-2x ga-right instagram"></span
         ></a>
         <a
           style="color: black"
           onMouseOver="this.style.color='blue'"
           onMouseOut="this.style.color='black'"
-          href="https://www.linkedin.com/company/w3schools.com/"
+          href="https://www.linkedin.com/in/abbas-mistry-1677712a"
           target="_blank"
-          title="W3Schools on LinkedIn"
+          title="Dr A Mistrys Clinic on LinkedIn"
           ><span class="fa fa-linkedin-square fa-2x ga-right linkedin"></span
         ></a>
         <a
           style="color: black"
           onMouseOver="this.style.color='lightblue'"
           onMouseOut="this.style.color='black'"
-          href="https://www.facebook.com/w3schoolscom/"
+          href="https://www.facebook.com/drmistrysclinic/"
           target="_blank"
-          title="W3Schools on Facebook"
+          title="Dr A Mistrys Clinic on Facebook"
           ><span class="fa fa-facebook-square fa-2x ga-right facebook"></span
         ></a>
         <a
