@@ -3,6 +3,7 @@ const header = document.getElementById("header")
 
 header.innerHTML = 
 `
+<!-- Sticky Header -->
 <div class="text-center bg-light">
   <nav
     class="navbar navbar-expand-lg bg-light sticky-top"
@@ -80,6 +81,9 @@ header.innerHTML =
               >
               <a class="dropdown-item" href="./OSA.html"
                 >Obstructive Sleep Apnea</a
+              >
+              <a class="dropdown-item" href="./Orthognathic.html"
+              >Orthognathic Surgey</a
               >
               <a class="dropdown-item" href="./UpperLimbCong.html"
                 >Upper Limb - Congenital</a
